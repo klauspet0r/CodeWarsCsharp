@@ -9,3 +9,4 @@ obj/Debug/net7.0/apphost.exe
 bin/Debug/net7.0/CodeWarsCsharp.pdb
 bin/Debug/net7.0/CodeWarsCsharp.exe
 bin/Debug/net7.0/CodeWarsCsharp.dll
+*.dll
