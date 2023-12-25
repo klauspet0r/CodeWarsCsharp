@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "qsnZc0cyqnFV6dlMUjjeqEBL5Zw9EYJZTAjwF+66RL2NW8goRinHy/2+6BY4yI8AwY/tkz8H7MaVtivvy1VPew==",
+  "success": true,
+  "projectFilePath": "C:\\dev\\git\\CodeWarsCsharp\\CodeWarsCsharp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\klaus\\.nuget\\packages\\nunit\\4.0.1\\nunit.4.0.1.nupkg.sha512",
+    "C:\\Users\\klaus\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.14\\microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\klaus\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.14\\microsoft.netcore.app.host.win-x64.7.0.14.nupkg.sha512",
+    "C:\\Users\\klaus\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.14\\microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\klaus\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.14\\microsoft.windowsdesktop.app.ref.7.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}
