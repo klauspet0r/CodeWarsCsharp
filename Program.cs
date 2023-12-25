@@ -8,7 +8,7 @@ Main();
 static void Main()
 {
   string[] input = new string[] {"tree", "foling", "trashy", "blue", "abcdef", "uvwxyz"};
-  LongestConsecutives.LongestConsec(input, 2);
+  Console.WriteLine($"Output is: {LongestConsecutives.LongestConsec(input, 2)}");
 }
 public class LongestConsecutives 
 {
